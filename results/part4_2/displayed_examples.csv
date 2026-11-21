@@ -1,0 +1,13 @@
+cluster,selection,official_train_index,true_class,distance_to_centroid
+0,Nearest,11529,Bag,4.4281464
+0,Nearest,31040,Sneaker,4.430907
+0,Nearest,55900,Sneaker,4.484208
+0,Random,48217,Sandal,6.463154
+0,Random,11737,Ankle boot,7.552996
+0,Random,49953,Sandal,5.5487
+1,Nearest,36199,Shirt,4.335325
+1,Nearest,30375,Pullover,4.653713
+1,Nearest,7590,Pullover,4.7637405
+1,Random,41903,Bag,10.78873
+1,Random,32844,Shirt,6.1375656
+1,Random,36441,Bag,10.333964

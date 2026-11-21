@@ -1,0 +1,15 @@
+{
+  "sample_source": "results/part4_1_raw_kmeans/used_indices.json",
+  "sample_source_key": "train_index",
+  "sample_size": 200,
+  "sampling_seed": 42,
+  "sampling": "without replacement; indices sorted before fitting",
+  "preprocessing": "flatten 28x28 pixels; float64; divide by 255",
+  "method": "ward",
+  "metric": "euclidean",
+  "optimal_ordering": false,
+  "interpretation_cuts": [
+    2,
+    4
+  ]
+}

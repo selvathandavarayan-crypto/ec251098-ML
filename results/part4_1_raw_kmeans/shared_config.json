@@ -1,0 +1,10 @@
+{
+  "preprocessing": "Flatten to 784 pixels and divide by 255",
+  "indices_file": "results/part4_1_raw_kmeans/used_indices.json",
+  "fixed_kmeans_settings": {
+    "max_iter": 300,
+    "tol": 0.0001,
+    "algorithm": "lloyd",
+    "copy_x": true
+  }
+}

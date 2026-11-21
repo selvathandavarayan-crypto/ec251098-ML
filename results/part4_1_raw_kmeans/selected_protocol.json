@@ -1,0 +1,8 @@
+{
+  "K": 2,
+  "init": "k-means++",
+  "n_init": 10,
+  "seed": 43,
+  "representative_rule": "Minimum training inertia among k-means++ runs with 10 restarts",
+  "model_path": "results/part4_1_raw_kmeans/selected_kmeans.joblib"
+}
