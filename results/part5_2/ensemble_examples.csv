@@ -1,0 +1,25 @@
+outcome,validation_position,original_image_index,true_class,model,predicted_class,probability_true_class,probability_predicted_class
+Corrected by ensemble,6363,40191,Shirt,MLP seed 42,Pullover,0.4137493371963501,0.5686091780662537
+Corrected by ensemble,6363,40191,Shirt,MLP seed 43,Shirt,0.6516919732093811,0.6516919732093811
+Corrected by ensemble,6363,40191,Shirt,MLP seed 44,Shirt,0.6115469932556152,0.6115469932556152
+Corrected by ensemble,6363,40191,Shirt,Ensemble,Shirt,0.5589961409568787,0.5589961409568787
+Corrected by ensemble,951,48024,Sneaker,MLP seed 42,Sandal,0.47403714060783386,0.5150293707847595
+Corrected by ensemble,951,48024,Sneaker,MLP seed 43,Sneaker,0.7177634835243225,0.7177634835243225
+Corrected by ensemble,951,48024,Sneaker,MLP seed 44,Sandal,0.4172592759132385,0.5679473876953125
+Corrected by ensemble,951,48024,Sneaker,Ensemble,Sneaker,0.5363532900810242,0.5363532900810242
+Corrected by ensemble,7995,7397,Shirt,MLP seed 42,T-shirt/top,0.3858141005039215,0.4064043164253235
+Corrected by ensemble,7995,7397,Shirt,MLP seed 43,Shirt,0.45527374744415283,0.45527374744415283
+Corrected by ensemble,7995,7397,Shirt,MLP seed 44,Shirt,0.5043924450874329,0.5043924450874329
+Corrected by ensemble,7995,7397,Shirt,Ensemble,Shirt,0.4484933912754059,0.4484933912754059
+New error from ensemble,829,24587,Shirt,MLP seed 42,Shirt,0.4440532922744751,0.4440532922744751
+New error from ensemble,829,24587,Shirt,MLP seed 43,T-shirt/top,0.211994469165802,0.6621192097663879
+New error from ensemble,829,24587,Shirt,MLP seed 44,T-shirt/top,0.29728129506111145,0.5702368021011353
+New error from ensemble,829,24587,Shirt,Ensemble,T-shirt/top,0.3177763521671295,0.5493902564048767
+New error from ensemble,6853,21351,Sandal,MLP seed 42,Sandal,0.5952437520027161,0.5952437520027161
+New error from ensemble,6853,21351,Sandal,MLP seed 43,Sneaker,0.3989999294281006,0.5816351771354675
+New error from ensemble,6853,21351,Sandal,MLP seed 44,Sneaker,0.3791985511779785,0.6035738587379456
+New error from ensemble,6853,21351,Sandal,Ensemble,Sneaker,0.4578140676021576,0.5226597189903259
+New error from ensemble,8181,34725,T-shirt/top,MLP seed 42,T-shirt/top,0.4418427348136902,0.4418427348136902
+New error from ensemble,8181,34725,T-shirt/top,MLP seed 43,T-shirt/top,0.4719280004501343,0.4719280004501343
+New error from ensemble,8181,34725,T-shirt/top,MLP seed 44,Shirt,0.2668697237968445,0.5934956073760986
+New error from ensemble,8181,34725,T-shirt/top,Ensemble,Shirt,0.39354681968688965,0.43156877160072327

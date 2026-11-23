@@ -1,0 +1,4 @@
+compared_with,errors_corrected,new_errors_introduced,net_additional_correct,accuracy_gain_pp
+MLP seed 42,85,88,-3,-0.03
+MLP seed 43,84,84,0,0.0
+MLP seed 44,87,88,-1,-0.01
